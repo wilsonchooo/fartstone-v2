@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8339e3878b6022749ad7fee96637ba8d, type: 3}
+  m_Name: wow
+  m_EditorClassIdentifier: 
+  properties:
+  - stringValue: 
+    intValue: 2
+    sprite: {fileID: 0}
+    element: {fileID: 11400000, guid: 3cbb80dc7389c4a49bd2644c5cfa9461, type: 2}
+  - stringValue: zzzzzzzzzz
+    intValue: 0
+    sprite: {fileID: 0}
+    element: {fileID: 11400000, guid: e6e8bc8b317c27642a35bf681917c8cf, type: 2}
+  - stringValue: 
+    intValue: 0
+    sprite: {fileID: 21300000, guid: ef57c8dc8a401c14ab104981e85f5318, type: 3}
+    element: {fileID: 11400000, guid: 5789540940ffa57429fded5c3e96fdc1, type: 2}
+  - stringValue: 
+    intValue: 0
+    sprite: {fileID: 0}
+    element: {fileID: 11400000, guid: 49fa2afad88b31844b279e546eba3c4e, type: 2}
+  - stringValue: 
+    intValue: 2
+    sprite: {fileID: 0}
+    element: {fileID: 11400000, guid: da344c5e4a1ecdc4eaadddc0524a34de, type: 2}
+  - stringValue: qqqqqqqqq
+    intValue: 0
+    sprite: {fileID: 0}
+    element: {fileID: 11400000, guid: 53a3f14713e454d4e91461ff9fa102db, type: 2}
