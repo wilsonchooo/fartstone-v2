@@ -6,6 +6,8 @@ public class CardViz : MonoBehaviour
 {
     public Card card;
     public CardVizProperties[] properties;
+
+
     private void Start()
     {
         LoadCard(card);
@@ -23,7 +25,7 @@ public class CardViz : MonoBehaviour
             CardProperties cp = c.properties[i];
 
             CardVizProperties p = GetProperty(cp.element);
-            if (p != null)
+            if (p == null)
             {
                 continue;
             }
